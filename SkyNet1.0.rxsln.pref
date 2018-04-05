@@ -1,0 +1,14 @@
+﻿<Properties>
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>6e12a760-6636-488c-b3e9-7d256aa61ae5</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+      <string>acce9dba-69af-4199-8422-c9fb48d0af85</string>
+      <string>5ca78980-71e6-496f-80b4-92620c7db9c5</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution SkyNet1.0[SkyNet1.0[]]]&#xD;&#xA;Solution SkyNet1.0\SkyNet1.0&#xD;&#xA;Solution SkyNet1.0\Solution Items" />
+  <StartupProject value="{AC2AD819-865C-4A36-9AFC-B17715DBA647}" />
+</Properties>
